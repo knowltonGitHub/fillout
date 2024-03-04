@@ -1,0 +1,23 @@
+{
+  "name": "fillout",
+  "version": "1.0.0",
+  "description": "fillout api test",
+  "main": "fillout-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knowltonGitHub/fillout.git"
+  },
+  "bugs": {
+    "url": "https://github.com/knowltonGitHub/fillout/issues"
+  },
+  "homepage": "https://github.com/knowltonGitHub/fillout#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "react": "^18.2.0"
+  }
+}
